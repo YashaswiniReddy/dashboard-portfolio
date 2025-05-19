@@ -8,7 +8,8 @@ These reports were developed using **SQL Server Reporting Services (SSRS)** to s
 
 ### 🏥 1. Hospital Claim & Patient Report
 
-![Hospital Paginated Report](https://raw.githubusercontent.com/YashaswiniReddy/dashboard-portfolio/main/ssrs-reports/screenshots/hospital-dashboard.png)
+![Hospital Paginated Report](https://raw.githubusercontent.com/YashaswiniReddy/dashboard-portfolio/main/Hospital%20report%20with%20parameters.png
+)
 
 - **Purpose:** Tracks admitted patients and total claim cost over the years
 - **Features:**
