@@ -1,7 +1,7 @@
 # dashboard-portfolio
 # 🏥 Hospital Analytics Dashboard
 
-![Hospital Dashboard](![Hospital Dashboard](https://raw.githubusercontent.com/YashaswiniReddy/dashboard-portfolio/main/hospital.png)
+![Hospital Dashboard]![Hospital Dashboard](https://raw.githubusercontent.com/YashaswiniReddy/dashboard-portfolio/main/hospital.png)
 
 
 ## 📌 Overview
