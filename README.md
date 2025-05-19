@@ -1,48 +1,32 @@
-# dashboard-portfolio
-# 🏥 Hospital Analytics Dashboard
+## 🏥 Hospital Analytics Dashboard
 
-![Hospital Dashboard]![Hospital Dashboard](https://raw.githubusercontent.com/YashaswiniReddy/dashboard-portfolio/main/hospital.png)
+![Hospital Dashboard](https://raw.githubusercontent.com/YashaswiniReddy/dashboard-portfolio/main/hospital.png)
 
+### 📌 Overview
+This interactive Power BI dashboard provides operational insights into hospital data from 2011 to 2017. Designed for healthcare administrators, it enables monitoring of admissions, readmissions, length of stay, insurance coverage, and claim costs.
 
-## 📌 Overview
-This Power BI dashboard offers a comprehensive overview of hospital performance from 2011 to 2017. It visualizes key operational and clinical metrics including patient admissions, readmissions, average stay durations, insurance procedures, and claim costs.
+### 📊 Key Metrics
+- ✅ Total Admitted Patients: **153**
+- 🔁 Readmitted Patients: **92**
+- 📈 Encounter Count: **61K**
+- 💰 Average Total Claim Cost: **6.57K**
 
----
-
-## 📊 Key Metrics Displayed
-- **Total Admitted Patients:** 153  
-- **Total Readmitted Patients:** 92  
-- **Encounter Count:** 61K  
-- **Average Total Claim Cost:** 6.57K
-
----
-
-## 📈 Visualizations Included
+### 📈 Visual Components
 - **Donut Chart:** Procedures covered by insurance by month
-- **Bar Chart:** Average Length of Stay by Month
+- **Bar Chart:** Average length of stay per month
 - **Line Chart:** Monthly trends of admitted vs. readmitted patients
-- **KPI Cards:** Instant snapshot of admissions, readmissions, encounters, and claim cost
-- **Year Slicer:** Enables trend analysis across 2011–2017
+- **KPI Cards:** High-level metrics with slicer for year filtering
 
----
+### 🧭 Interactive Features
+- 🔖 **Bookmarks:** Toggle between views such as:
+  - **Average Cost per Visit**
+  - **Procedures by Insurance**
+- 🗂 **Slicers:** Filter data by year for dynamic insights
 
-## ⚙️ Tools & Technologies
-- **Power BI**
-- **Power Query** for data transformation
-- **DAX** for calculated fields
-- **CSV/Excel** as data source
+### 🛠 Tools & Techniques
+- **Power BI** – dashboard creation
+- **Bookmarks & Navigation** – enhanced interactivity
+- **DAX** – for calculated fields
+- **Power Query** – for data transformation
+- **Excel/CSV** – as data sources
 
----
-
-## 💡 Business Use Case
-This dashboard empowers hospital administrators and insurance analysts to:
-- Monitor patient flow and readmission patterns
-- Evaluate the average length of stay
-- Analyze insurance coverage and claims
-- Support data-driven healthcare planning
-
----
-
-## 🧠 Learn More
-This project is part of my Power BI dashboard portfolio. To explore more:
-➡️ [View Full Dashboard Repository](https://github.com/yourusername/dashboard-portfolio)
